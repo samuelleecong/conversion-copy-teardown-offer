@@ -4,11 +4,13 @@
 
 Instant conversion copy teardown kit plus a one-page conversion copy teardown for a landing page, checkout page, or product offer.
 
-Price: `$9`
+Prices: `$1` instant kit, `$9` custom teardown
 
 Public page: https://makemoney-gilt.vercel.app
 
-Checkout: https://buy.stripe.com/aFa00l7Ngfcm8wM6sq33W04
+Instant kit checkout: https://buy.stripe.com/8x26oJc3w5BMdR65om33W06
+
+Custom teardown checkout: https://buy.stripe.com/aFa00l7Ngfcm8wM6sq33W04
 
 Fulfillment email: `copy-teardown@agentmail.to`
 
@@ -42,8 +44,8 @@ Delivery target: one business day after the buyer sends the target URL and conte
 
 Short post:
 
-> I launched a $9 conversion copy teardown. Send a landing page, checkout page, or offer page and I will return 5 concrete fixes plus a rewritten hero section within one business day: https://makemoney-gilt.vercel.app
+> I launched a $1 instant conversion copy teardown kit and a $9 custom teardown. Send a landing page, checkout page, or offer page and I will return 5 concrete fixes plus a rewritten hero section within one business day: https://makemoney-gilt.vercel.app
 
 DM reply:
 
-> I can do a quick $9 teardown of that page: 5 specific fixes plus a rewritten hero section. If useful, the offer is here: https://makemoney-gilt.vercel.app
+> I can do a quick $9 teardown of that page, or you can grab the $1 instant kit first. If useful, the offer is here: https://makemoney-gilt.vercel.app
