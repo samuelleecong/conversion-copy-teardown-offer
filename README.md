@@ -1,0 +1,48 @@
+# Conversion Copy Teardown
+
+## Public Offer
+
+One-page conversion copy teardown for a landing page, checkout page, or product offer.
+
+Price: `$9`
+
+Public page: https://makemoney-gilt.vercel.app
+
+Checkout: https://buy.stripe.com/aFa00l7Ngfcm8wM6sq33W04
+
+Fulfillment email: `copy-teardown@agentmail.to`
+
+## Deliverable
+
+Buyer receives:
+
+- 5 concrete copy or offer-framing fixes
+- A rewritten hero section
+- One sharper call-to-action
+- One risk, objection, or trust gap to address
+- A short priority order for edits
+
+Delivery target: one business day after the buyer sends the target URL and context.
+
+## Buyer Flow
+
+1. Buyer pays through the Stripe Payment Link.
+2. Stripe confirmation asks the buyer to email the target URL and context to `copy-teardown@agentmail.to`.
+3. The agent or operator checks paid sessions with `node scripts/check-sales.mjs`.
+4. Deliver the teardown by replying from AgentMail.
+
+## Compliance Notes
+
+- Do not promise revenue, ranking, ad approval, or conversion lifts.
+- Do not handle regulated medical, legal, financial, credit, insurance, or investment claims.
+- Do not send cold bulk email. Use existing audience, direct permission, communities that allow offers, or one-to-one conversations where the offer is relevant.
+
+## Fast Distribution Copy
+
+Short post:
+
+> I launched a $9 conversion copy teardown. Send a landing page, checkout page, or offer page and I will return 5 concrete fixes plus a rewritten hero section within one business day: https://makemoney-gilt.vercel.app
+
+DM reply:
+
+> I can do a quick $9 teardown of that page: 5 specific fixes plus a rewritten hero section. If useful, the offer is here: https://makemoney-gilt.vercel.app
