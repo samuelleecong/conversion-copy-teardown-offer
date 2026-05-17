@@ -2,7 +2,7 @@
 
 ## Public Offer
 
-One-page conversion copy teardown for a landing page, checkout page, or product offer.
+Instant conversion copy teardown kit plus a one-page conversion copy teardown for a landing page, checkout page, or product offer.
 
 Price: `$9`
 
@@ -16,6 +16,7 @@ Fulfillment email: `copy-teardown@agentmail.to`
 
 Buyer receives:
 
+- Instant access to the Conversion Copy Teardown Kit
 - 5 concrete copy or offer-framing fixes
 - A rewritten hero section
 - One sharper call-to-action
